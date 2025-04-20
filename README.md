@@ -40,7 +40,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-![alt text](https://github.com/cheytac404/8-03-hw/blob/main/Template.png)
+![alt text](https://github.com/cheytac404/8-03-hw/blob/main/q1.png)
  ---
 
 ### Задание 2
@@ -85,5 +85,5 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
-![alt text](https://github.com/cheytac404/8-03-hw/blob/main/dashboard.png)
+![alt text](https://github.com/cheytac404/8-03-hw/blob/main/q4.png)
  ---
